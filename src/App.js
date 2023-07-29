@@ -5,14 +5,14 @@ var color = "yellow";
 
 const emojiDictionary = {
   "😂": "Laughing",
-  "😾": "pouting cat",
-  "🐤": "Hello Chicken Singh🌝",
-  "😿": "Billi khin  ke",
-  "🐢": "You are my Turtle",
-  "🥰": "My Cuteyy",
-  "🥺": "Missing you alot😞",
-  "❤️": " I Love You",
-  "😉": "See you soon🤗"
+  "😾": "Angry cat",
+  "🐤": "Hello Chicken 🌝",
+  "😿": "Crying cat",
+  "🐢": "Turtle",
+  "🥰": "cute",
+  "🥺": "Missing ",
+  "❤️": "Red heart",
+  "😉": "winking
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
