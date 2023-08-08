@@ -11,7 +11,7 @@ const emojiDictionary = {
   "🥰": "cute",
   "🥺": "Missing ",
   "❤️": " Red heart",
-  "😉": "Winking"
+  "😉": "Winking",
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
